@@ -1,2 +1,2 @@
-# public-repo1
+# public-repo
 Publicly Shared Repository
